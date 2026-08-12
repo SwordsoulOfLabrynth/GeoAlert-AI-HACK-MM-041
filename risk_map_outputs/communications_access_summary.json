@@ -1,0 +1,11 @@
+{
+  "title": "Communications-access vulnerability proxy",
+  "formula": "0.55 hazard + 0.30 population exposure + 0.15 isolation from supplied main road",
+  "interpretation": "A communication-priority proxy for the prototype, not a measurement or prediction of individual mobile-tower failure.",
+  "classes": {
+    "Low": 84,
+    "Medium": 2262,
+    "High": 2348
+  },
+  "point_spacing_approx_m": 500
+}

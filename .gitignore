@@ -1,0 +1,16 @@
+# Secrets — never commit Telegram tokens or chat IDs
+.streamlit/secrets.toml
+.env
+
+# Python build/cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editor / OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+{
+  "title": "Illustrative hazard-avoidance corridor",
+  "method": "A* least-cost path on the combined hazard grid (low=1, medium=6, high=30).",
+  "endpoints": "Illustrative map points, not verified shelters or communities.",
+  "limitation": "The supplied data has no complete routable road network; this is not turn-by-turn navigation or an official evacuation route."
+}

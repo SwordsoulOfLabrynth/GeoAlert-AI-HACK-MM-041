@@ -1,0 +1,18 @@
+{
+  "title": "GeoAlert AI estimated impact assessment",
+  "hazard_input": "Combined flood and landslide risk, CHIRPS August 2025 scenario",
+  "population_data": "WorldPop/HDX 2020 gridded population estimate supplied by team",
+  "method": "Population cell centres and building centroids were assigned the combined hazard class at their location.",
+  "estimated_exposed_population": {
+    "low": 1862,
+    "medium": 385536,
+    "high": 90233
+  },
+  "estimated_buildings": {
+    "low": 2,
+    "medium": 28805,
+    "high": 1047,
+    "outside_or_unclassified": 6358
+  },
+  "limitation": "These are prototype exposure estimates, not a field-verified count or live incident assessment."
+}

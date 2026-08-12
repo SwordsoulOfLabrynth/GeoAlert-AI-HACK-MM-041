@@ -1,0 +1,25 @@
+{
+  "study_area": "Mawlamyine\u2013Paung corridor, Mon State, Myanmar",
+  "output_resolution_approx_m": 123,
+  "rainfall_scenario": "CHIRPS v2.0 monthly precipitation, August 2025",
+  "method": {
+    "flood": "0.45 rainfall + 0.35 inverse elevation + 0.20 proximity to waterways",
+    "landslide": "0.60 slope + 0.40 rainfall",
+    "class_thresholds": "equal thirds after 5th\u201395th percentile normalization within the study area"
+  },
+  "ranges": {
+    "rainfall_mm": [
+      707.6553955078125,
+      903.8656616210938
+    ],
+    "elevation_m": [
+      2.0,
+      308.0
+    ],
+    "slope_degrees": [
+      0.2316112220287323,
+      18.088762283325195
+    ]
+  },
+  "limitation": "Prototype scenario model; it does not represent a validated real-time operational forecast."
+}
